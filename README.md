@@ -1,3 +1,3 @@
-# MLDS-HW1-2022
+# AutoTrading-Template
 
 Please clearly write your idea.
