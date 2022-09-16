@@ -1,3 +1,3 @@
-# DSAI-HW2-2021
+# AutoTrading-Template
 
 Please clearly write your idea.
