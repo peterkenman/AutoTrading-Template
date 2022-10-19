@@ -16,7 +16,7 @@ Output Data:
 "output.csv"
 
 Action Type:
-1:Buy 0:NoA
+1:Buy 0:NoAction -1:Sell
 
 # Environment
 
