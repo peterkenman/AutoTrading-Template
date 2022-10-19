@@ -1,7 +1,22 @@
-# HW1-AutoTrading
-Editer:鄭信乙 
+# MLDS HW1 - AutoTrading
+Editer:鄭信乙 楊宗岳
 ID:N27101081
 Date:2022.10.16
+
+# Evaluation Goal
+Maximize the profit you gain. 
+We will use one month's data as the test data set.
+Please aim to maximize revenue in 20 days.
+
+Input Data:
+training_data=>
+testing_data=>
+
+Output Data:
+"output.csv"
+
+Action Type:
+1:Buy 0:NoA
 
 # Environment
 
